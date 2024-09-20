@@ -1,0 +1,10 @@
+{"CustomerID":1001,"First_Name":"Frodo","Last_Name":"Baggins","Phone_Number":"123-545-5421","Paying Customer":"Yes","Do_Not_Contact":"N","Street_address":"123 Shire Lane","State":"Shire","Zip_code":""}
+{"CustomerID":1005,"First_Name":"Jon","Last_Name":"Snow","Phone_Number":"876-678-3469","Paying Customer":"Y","Do_Not_Contact":"N","Street_address":"123 Dragons Road","State":"","Zip_code":""}
+{"CustomerID":1008,"First_Name":"Sherlock","Last_Name":"Holmes","Phone_Number":"876-678-3469","Paying Customer":"N","Do_Not_Contact":"N","Street_address":"98 Clue Drive","State":"","Zip_code":""}
+{"CustomerID":1010,"First_Name":"Peter","Last_Name":"Parker","Phone_Number":"123-545-5421","Paying Customer":"Yes","Do_Not_Contact":"N","Street_address":"25th Main Street","State":"New York","Zip_code":""}
+{"CustomerID":1013,"First_Name":"Don","Last_Name":"Draper","Phone_Number":"123-543-2345","Paying Customer":"Yes","Do_Not_Contact":"N","Street_address":"2039 Main Street","State":"","Zip_code":""}
+{"CustomerID":1014,"First_Name":"Leslie","Last_Name":"Knope","Phone_Number":"876-678-3469","Paying Customer":"Yes","Do_Not_Contact":"N","Street_address":"343 City Parkway","State":"","Zip_code":""}
+{"CustomerID":1015,"First_Name":"Toby","Last_Name":"Flenderson","Phone_Number":"304-762-2467","Paying Customer":"N","Do_Not_Contact":"N","Street_address":"214 HR Avenue","State":"","Zip_code":""}
+{"CustomerID":1016,"First_Name":"Ron","Last_Name":"Weasley","Phone_Number":"123-545-5421","Paying Customer":"No","Do_Not_Contact":"N","Street_address":"2395 Hogwarts Avenue","State":"","Zip_code":""}
+{"CustomerID":1017,"First_Name":"Michael ","Last_Name":"Scott","Phone_Number":"123-643-9775","Paying Customer":"Yes","Do_Not_Contact":"N","Street_address":"121 Paper Avenue","State":"Pennsylvania","Zip_code":""}
+{"CustomerID":1020,"First_Name":"Anakin","Last_Name":"Skywalker","Phone_Number":"876-678-3469","Paying Customer":"Yes","Do_Not_Contact":"N","Street_address":"910 Tatooine Road","State":"Tatooine","Zip_code":""}
