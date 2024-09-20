@@ -1,4 +1,4 @@
-# Customer-Contacts-Data-Cleaning-Python
+# Customer-Contacts-Python
 
 This repository contains Python scripts used to clean and preprocess raw datasets for further analysis and modeling. The cleaning process addresses common issues such as missing values, duplicates, inconsistent formatting, and outliers to ensure high-quality, reliable data.
 
